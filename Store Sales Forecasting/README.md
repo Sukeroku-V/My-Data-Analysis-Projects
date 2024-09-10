@@ -11,16 +11,23 @@ As an information, Profit=(Quantity×Price per Unit×(1−Discount))−Total 
 3.Analyzing the data:
 
 To do that, we need to ask questions, here, although there are so so many columns, the questions are obvious, and So are their answers:
+
 -What do we need to improve the sales?
+
 How can we do it?
 
 In order to do that we need to ask specific questions:
 
 -What is the ship modes that is used the most? the Standard One.
+
 -What is its Relation with the total costs? when the ship mode is not of high class, it will cost the company.
+
 -What is the most demanded Furniture? Furnishings by 45%
+
 -What are the top 10 most demanded Products?
+
 -which city should the company target?
+
 
 4.Conclusion:
 
