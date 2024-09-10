@@ -26,7 +26,7 @@ In order to do that we need to ask specific questions:
 
 -What are the top 10 most demanded Products?
 
--which city should the company target?
+-which cities should the company target? Better show the Top 10 
 
 
 4.Conclusion:
