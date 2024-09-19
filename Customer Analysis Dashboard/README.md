@@ -23,4 +23,4 @@ To answer these questions, I created this dashboard and came up with these insig
 
 Conclusion:
 
-Sell more SPorts Products to men and more Home and Gardening products to women. Target the richest customers and make a loyalty program for those 17 customers with 100 spending score
+Sell more Sports Products to men and more Home and Gardening products to women. Target the richest customers and make a loyalty program for those 17 customers with 100 spending score
