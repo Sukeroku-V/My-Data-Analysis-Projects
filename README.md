@@ -1,5 +1,4 @@
 # My-Data-Analysis-Projects
-I will show here every Data Analytics Project I've done using one or various tools.
 
 Growing up, I've always been fond of Art-related...I used to binge-watch/read everything that had any relation with art, I found myself in those books, those photographs, those silly little designs. They were and still my other world, the place I can always go to and be welcomed at any time.
 
