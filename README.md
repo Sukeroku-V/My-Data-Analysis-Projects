@@ -1,14 +1,18 @@
 # My-Data-Analysis-Projects
 
-Growing up, I've always been fond of Art-related...I used to binge-watch/read everything that had any relation with art, I found myself in those books, those photographs, those silly little designs. They were and still my other world, the place I can always go to and be welcomed at any time.
+Growing up, I was always fond of art. I used to binge-watch and read anything remotely related to it—I found myself in those books, photographs, and those silly little designs. They were, and still are, my other world, the place I could always retreat to, where I felt welcomed anytime.
 
-Then in my first year of college, I've started to enjoy science, I mean real science, you know stuff like neurology, quantum mechanics, and god forbid not..Thermodynamics. The numbers, the facts, the reality I used to hate so much, to escape whenever I can never looked more beautiful to me, and it wasn't because of college. Funnily enough, It was because I was escaping again and found myself in a little dark, very beautiful side of internet knowledge and I've been hooked with what I used to hate so much. In other words, it wasn't until I started reading and found books they wouldn't let us read in school that I discovered you could be insane and happy and have a good life without being like everybody else. the numbers, the quatrillions whatever that is, The ton of knowledge that I can never grasp all of it but I can try, it was beautiful, it was full of...art?
+Then, in my first year of college, I began to enjoy science. Real science, like neurology, quantum mechanics, and, god forbid, not thermodynamics. The numbers, the facts, the reality I once despised and constantly sought to escape now seemed beautiful to me. And it wasn’t because of college. Ironically, it was because I was escaping again—this time into a fascinating, obscure corner of internet knowledge. I became hooked on what I once hated.
 
-Probably not that much, I guess.
+It wasn't until I began reading books they wouldn’t let us touch in school that I realized you could be both insane and happy, and still lead a good life without being like everybody else. The numbers—the quadrillions, or whatever they are—the endless ocean of knowledge I could never fully grasp but could always try... it was beautiful. It was full of art.
 
-So then I started a mini search to find a mix between what I like the most now, Art and Science and I couldn't find better than Data Analytics...the process of telling a story using some data, using big data, using bloody excel data. 
+Maybe not in the traditional sense, but still.
 
+So I began a mini-search for a blend of what I loved most now—art and science—and I couldn’t find a better fit than data analytics: the process of telling a story through data, whether big data or just simple Excel files.
 
-And it was only then when I had that idea for the first time, that I can become really good at it. it brought some pale fire to me, the one I can hold into,it made me feel alive again. But then reality hit me like it usually does(by reality I mean SQL Tutorials). I sucked at it. It made me sick Other people also suck at it as I've seen, unable to tell a story but still found some success somehow in the field. I don't want that kind of success. What kind of good will it do? and so I know very well that it's a thing to watch from afar, to laugh , choose to believe data or not and to go deep down into the rabbit hole, doing what you love, passing boldly to the other side by the ashes of some hope, some dream, some attempt to achieve something, to not believe data but turn it into something meaningful, something you could direct people with into a better direction, a more noble one, hopefully.
+And when I first realized this, I thought, "I can be really good at this." It sparked a pale fire in me, one I could hold onto. It made me feel alive again. But then, reality hit me hard, as it usually does (by reality, I mean SQL tutorials). I wasn’t good at it. It made me sick. I saw others struggle with it too, yet somehow, they found success in the field without truly mastering the craft. But that’s not the kind of success I want. What good would it do?
 
-With that being said, I have hated the numbers and I have loved them...and I hope I'll make them right.
+I know that it's something to watch from a distance—to laugh, to choose whether to believe the data or not. and to dive into the rabbit hole, doing what I love, passing Boldly into the other side by the ashes of that wasteful dream; to turn the data into something meaningful, something that guides people in a better, nobler direction—hopefully.
+
+With that being said, I have hated numbers, and I have loved them. And I hope I'll make them right.
+
